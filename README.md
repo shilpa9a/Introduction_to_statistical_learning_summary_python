@@ -31,4 +31,8 @@ Few important concepts it doesn't touch at all-
 - Deep learning
 - Bayesian
 
-**Checkout my repo——- to get notebook with each chapter's summary along with the data & python code to practice.**
+**This repo will give you notebook for each chapter with concept summary, data & python code to practice. This is meant to give you quick headstart with most used statistical concepts with data and code to play with. For deeper understanding of any concept, I recommend getting back to the book or ever explaining internet.**
+
+*If find any issues or have doubts then do put it in issues in the repo*
+
+*If you have any generic feedback, ideas to collaborate or any thing interesting to say then email me @ shilpaarora992[at]gmail[dot]com
