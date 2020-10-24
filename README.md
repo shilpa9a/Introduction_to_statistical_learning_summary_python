@@ -35,4 +35,4 @@ Few important concepts it doesn't touch at all-
 
 *If you find any issues or have doubts, feel free to submit [issues](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/issues).*
 
-*If you have any generic feedback, ideas to collaborate or anything interesting to say, then email me at shilpaarora992[at]gmail[dot]com.*
+*If you have any generic feedback, ideas to collaborate or anything interesting to say, you can reach me at shilpaarora992[at]gmail[dot]com.*
