@@ -1,18 +1,15 @@
 # Enroute to ML via Statistics
-Whenever someone ask me this question- "How to get started in data science?" then I ususally recommend the book- Introduction to Statistical learning, to learn the basics of statistics and ML models. 
+## Summary of the book- Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani
 
-The books qoutes- "This book is intended for anyone who is interested in using modern statis-
-tical methods for modeling and prediction from data. This group includes
-scientists, engineers, data analysts, or quants, but also less technical indi-
-viduals with degrees in non-quantitative fields such as the social sciences or
-business. We expect that the reader will have had at least one elementary
-course in statistics."
+Whenever someone ask me - "How to get started in data science?" then I ususally recommend the book- Introduction to Statistical learning, to learn the basics of statistics and ML models. 
 
-But I usually see people finding it difficult to get through the entire book so I thought why not summarise this book and also give the option to test some of their lab examples in python notebook, as book already gives you examples in R.
+The books qoutes- "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
-So I recommend this book because- 
+If this is you but finding it difficult to get through the entire book then use this repo to get quick summary of most important concepts along with data and python code. It's a good way to learn python for data science also.
 
-- It gives a modest introduction to statistics and mathematics behind the most used methods like-
+I recommend this book because- 
+
+* It gives a modest introduction to statistics and mathematics behind the most used methods like-
     - Regressions- linear, higher order polynomial, logistics
     - classifications,
     - decision trees,
@@ -23,6 +20,7 @@ So I recommend this book because-
 - It also provides with a lab section in statistical programming language, R, for each these methods at the end of each chapter.
 
 It prepares you to understand the concepts as well as gives you enough examples in R to get you started with using these models on your own data. 
+(And the repo gives same in python so you are covered either way)
 
 Few important concepts it doesn't touch at all-
 
