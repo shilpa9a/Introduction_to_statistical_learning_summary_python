@@ -9,7 +9,7 @@ To do this, I have summarised each chapter of the book as a [notebook](https://g
 _____ 
 
 
-About the book:
+### About the book:
 
 > "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
@@ -35,7 +35,7 @@ Few important concepts it doesn't touch at all-
 - Deep learning
 - Bayesian
 
-___________
+_____ 
 
 This is an independent part of my blog series, Data science for analytical minds, especially for people from non-tech backgrounds like economics, statistics, mathematics, physics etc. Checkout its [introductory blog](https://medium.com/@Shilpa9a/statistical-machine-learning-in-python-b095d4af36dd) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734). This is the 3rd part of the series focusing on statistics & ML basics.
 
