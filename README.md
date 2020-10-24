@@ -1,6 +1,6 @@
 # Enroute to ML via Statistics
 ## Summary of the book - Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani 
-[(Download link)](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
+[(Book Download link)](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
 Whenever someone ask me - "How to get started in data science?" then I ususally recommend the book- Introduction to Statistical learning, to learn the basics of statistics and ML models. 
 
