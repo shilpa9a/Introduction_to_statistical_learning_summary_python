@@ -16,15 +16,17 @@ _____
 I recommend this book because- 
 
 It gives a modest introduction to statistics and mathematics behind the most used methods like-
-    - Regressions,
-    - classifications,
-    - decision trees,
-    - SVM,
-    - clustering,
-    - unsupervised learning,
-    - resampling,
-    - cross-validation methods,
-    - Dimension reduction methods.
+
+- Regressions,
+- classifications,
+- decision trees,
+- SVM,
+- clustering,
+- unsupervised learning,
+- resampling,
+- cross-validation methods,
+- Dimension reduction methods.
+
 It also provides with a lab section with examples for each these methods at the end of each chapter. It prepares you to understand the concepts as well as gives you enough examples in statistical programming language, R, to get you started with using these models on your own data. (And this repo gives the same in python, so you are covered either way!)
 
 
