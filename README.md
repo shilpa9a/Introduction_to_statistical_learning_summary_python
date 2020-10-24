@@ -1,8 +1,9 @@
-# Summary of "Introduction of Statistical Learning" - Python Notebooks
-
-Book - [Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
+# Machine Learning via Statistics
+## Summary of "Introduction of Statistical Learning" - Python Notebooks
 
 Whenever someone ask me "How to get started in data science?", I ususally recommend the book - Introduction to Statistical learning, to learn the basics of statistics and ML models.
+
+Book - [Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
 > "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
@@ -10,14 +11,16 @@ If this is you, but finding it difficult to get through the entire book, then us
 
 I recommend this book because- 
 
-* It gives a modest introduction to statistics and mathematics behind the most used methods like-
-    - Regressions- linear, higher-order polynomial, logistics
+- It gives a modest introduction to statistics and mathematics behind the most used methods like-
+    - Regressions,
     - classifications,
     - decision trees,
+    - SVM,
     - clustering,
     - unsupervised learning,
-    - resampling
-    - cross-validation methods.
+    - resampling,
+    - cross-validation methods,
+    - Dimension reduction methods.
 - It also provides with a lab section in the statistical programming language, R, for each these methods at the end of each chapter.
 
 It prepares you to understand the concepts as well as gives you enough examples in R to get you started with using these models on your own data. 
