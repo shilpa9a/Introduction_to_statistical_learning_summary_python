@@ -2,7 +2,7 @@
 
 Book - [Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
-**This is part of my blog series, Data science for analytical minds, especially for people from non-tech backgrounds like economics, statistics, mathematics, physics etc. Checkout its [introduction blog](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734). This is the 3rd part of the series focusing on statistics & ML basics.**
+**This is an independent part of my blog series, Data science for analytical minds, especially for people from non-tech backgrounds like economics, statistics, mathematics, physics etc. Checkout its [introduction blog](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734). This is the 3rd part of the series focusing on statistics & ML basics.**
 
 Whenever someone ask me "How to get started in data science?", I ususally recommend the book - Introduction to Statistical learning, to learn the basics of statistics and ML models. So as part of the series, onboarding people on this book seemed like the right next step. The book quotes-
 
