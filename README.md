@@ -1,9 +1,8 @@
-# Machine Learning via Statistics
-## Summary of "Introduction of Statistical Learning" - Python Notebooks
+# Summary of "Introduction of Statistical Learning" - Python Notebooks
 
-Whenever someone ask me "How to get started in data science?", I ususally recommend the book - Introduction to Statistical learning, to learn the basics of statistics and ML models.
+Book - [Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf)
 
-The Book - [Introduction of Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf), quotes
+Whenever someone ask me "How to get started in data science?", I ususally recommend the book - Introduction to Statistical learning, to learn the basics of statistics and ML models. The book quotes-
 
 > "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
