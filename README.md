@@ -35,7 +35,7 @@ Few important concepts it doesn't touch at all-
 
 **This repo has a [notebook](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/tree/master/notebook) for each chapter with concept summary, data & python code to practice. This is meant to give you quick headstart with most used statistical concepts with data and code to play with. For a deeper understanding of any concept, I recommend getting back to the book.**
 
-**This is part of my blog series- data science for analytical minds, especially for non-tech background people. Checkout its [introduction blog](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734)** 
+**This is part of my blog series- data science for analytical minds, especially for people from non-tech backgrounds like economics, statistics, mathematics, physics etc. Checkout its [introduction blog](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734)** 
 
 *If you find any issues or have doubts, feel free to submit [issues](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/issues).*
 
