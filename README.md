@@ -31,7 +31,7 @@ And understandly, completing a technical book while practicing it with relevant 
   * The Validation Set Approach
   * Leave-One-Out Cross-Validation
   * k-FoldCross-Validation
-* TheBootstrap
+* The Bootstrap
 
 [Notebook: Chapter 6: Linear Model Selection and Regularization](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_6_Linear_Model_Selection_and_Regularization.ipynb) explains-
 
@@ -51,13 +51,13 @@ _____
 
 ### More about the book:
 
-The objective of this book (and derived notebooks here) is to marry the statistical machine learning concepts with real-life data science problem statements. Each chapter/concept begins with a real scenerio, like - "You are a consultant who needs to advice the best medium of advertising & budgets to increase the sale of a product, using the advertising data" and explains techniques and methods step by step as we solve through it. 
-
 > "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
 I recommend ✅  this book because- 
 
-1. It gives a modest introduction to statistics and mathematics behind the most used methods like:
+1. This book (and derived notebooks in this repo) marries the statistical machine learning concepts with real-life data science problem statements. Each chapter/concept begins with a real scenerio, like - "You are a consultant who needs to advice the best medium of advertising & budgets to increase the sale of a product, using the advertising data" and explains techniques and methods step by step as we solve through it. 
+
+2. It gives a modest introduction to statistics and mathematics behind the most used methods like:
 
 - Regressions
 - Classifications
@@ -69,7 +69,7 @@ I recommend ✅  this book because-
 - Cross-Validation Methods
 - Dimension reduction methods
 
-2. It also provides a 💡 lab section at the end of each chapter. It has R code snippets using various libraries that will come in handy to analyze data, build models, and test them. 🌟 **This repo gives the same code in python, so you are covered either way!** This will help you get started and equip you to test out the given models on your own data.
+3. It also provides a 💡 lab section at the end of each chapter. It offers R code snippets & various libraries that will come in handy to analyze data, build models, and test them. 🌟 **This repo gives the same code in python, so you are covered either way!** This will help you get started and equip you to test out the given methods & models on your own data.
 
 
 Few important concepts it does not touch at all are-
