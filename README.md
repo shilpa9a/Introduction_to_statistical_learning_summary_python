@@ -25,13 +25,28 @@ And understandly, completing a technical book while practicing it with relevant 
 - Quadratic Discriminant Analysis (QDA)
 - K-nearest neighbour
 
-[Notebook: Chapter 4: Classification](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_4_Classification.ipynb) covers-
+[Notebook: Chapter 5: Resampling Methods](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_5_Resampling_Methods.ipynb) covers-
 
-- Classification Overview
-- Logistic Regression
-- Linear Discriminant Analysis (LDA)
-- Quadratic Discriminant Analysis (QDA)
-- K-nearest neighbour
+* Cross-Validation
+  * The Validation Set Approach
+  * Leave-One-Out Cross-Validation
+  * k-FoldCross-Validation
+* TheBootstrap
+
+[Notebook: Chapter 6: Linear Model Selection and Regularization](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_6_Linear_Model_Selection_and_Regularization.ipynb) covers-
+
+* Subset Selection Models
+  * Best Subset Selection
+  * Forward Stepwise Selection
+  * Backward Stepwise Selection
+* Shrinkage Methods
+  * Ridge Regression
+  * The Lasso
+* Dimension Reduction Methods- PCR and PLS Regression
+  * Principal Components Regression
+  * Partial Least Squares
+
+
 _____ 
 
 
