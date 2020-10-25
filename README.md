@@ -4,7 +4,7 @@ Whenever someone asks me “How to get started in data science?”, I usually re
 
 We all are aware that statistics forms the backbone of data science techniques like prediction, clustering, estimation, etc. However, it is the 'how' part where we get stuck. The objective of this book and derived notebook is to marry the statistical concepts with real-life data science problem statements. Each chapter/concept begins with a real scenerio, like - "You are a consultant who needs to advice the best medium of advertising & budgets to increase the sale of a product, using the advertising data" and explains techniques and methods step by step as we solve through it. 
 
-🤔 But how does it help you lean? Through its 💡 labs section! The book gives R code snippets to teach us various functions that will come in handy to analyze data, build models, and test them. 
+🤔 But how does it help you lean? Through its 💡 lab section! The book gives R code snippets to teach us various functions that will come in handy to analyze data, build models, and test them. 
 
 This notebook is a concise version of the book with the code in Python instead of R. It is a part of my data science blog series, [Data science for analytical minds](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f). If you are curious to learn the application of statistics in building models, this can be your go-to resource. 
 
