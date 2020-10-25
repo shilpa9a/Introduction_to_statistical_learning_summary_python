@@ -4,20 +4,20 @@ Whenever someone asks me “How to get started in data science?”, I usually re
 
 And understandly, completing a technical book while practicing it with relevant data and code is a challenge for lot of us so I created a concise version of the book. I translated each chapter of the book into a [notebook](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/tree/master/notebook) with summary of the key concepts, data & python code to practice. So just clone the repo and get started! :woman_technologist: 
 
-[Notebook: Chapter 2: Statistical Learning](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_2_Statistical_Learning.ipynb) covers-
+[Notebook: Chapter 2: Statistical Learning](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_2_Statistical_Learning.ipynb) explains-
 
 - What Is Statistical Learning?
 - Assessing Model Accuracy
 - Introduction to Programming language, Python
 
-[Notebook: Chapter 3: Linear Regression](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_3_Linear_Regression.ipynb) covers-
+[Notebook: Chapter 3: Linear Regression](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_3_Linear_Regression.ipynb) explains-
 
 - Linear Regression (LR)- simple, multiple
 - Qualitative Predictors in LR
 - Non-linear Transformations of the Predictors
 - Potential Problems with least square linear regression
 
-[Notebook: Chapter 4: Classification](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_4_Classification.ipynb) covers-
+[Notebook: Chapter 4: Classification](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_4_Classification.ipynb) explains-
 
 - Classification Overview
 - Logistic Regression
@@ -25,7 +25,7 @@ And understandly, completing a technical book while practicing it with relevant 
 - Quadratic Discriminant Analysis (QDA)
 - K-nearest neighbour
 
-[Notebook: Chapter 5: Resampling Methods](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_5_Resampling_Methods.ipynb) covers-
+[Notebook: Chapter 5: Resampling Methods](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_5_Resampling_Methods.ipynb) explains-
 
 * Cross-Validation
   * The Validation Set Approach
@@ -33,7 +33,7 @@ And understandly, completing a technical book while practicing it with relevant 
   * k-FoldCross-Validation
 * TheBootstrap
 
-[Notebook: Chapter 6: Linear Model Selection and Regularization](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_6_Linear_Model_Selection_and_Regularization.ipynb) covers-
+[Notebook: Chapter 6: Linear Model Selection and Regularization](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_6_Linear_Model_Selection_and_Regularization.ipynb) explains-
 
 * Subset Selection Models
   * Best Subset Selection
@@ -46,15 +46,12 @@ And understandly, completing a technical book while practicing it with relevant 
   * Principal Components Regression
   * Partial Least Squares
 
-
 _____ 
 
 
 ### More about the book:
 
 The objective of this book (and derived notebooks here) is to marry the statistical machine learning concepts with real-life data science problem statements. Each chapter/concept begins with a real scenerio, like - "You are a consultant who needs to advice the best medium of advertising & budgets to increase the sale of a product, using the advertising data" and explains techniques and methods step by step as we solve through it. 
-
-And its 💡 lab section at the end of each chapter, gives R code snippets with data to teach us various libraries that will come in handy to analyze data, build models, and test them. 
 
 > "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
@@ -72,7 +69,7 @@ I recommend ✅  this book because-
 - Cross-Validation Methods
 - Dimension reduction methods
 
-2. It also provides with a lab section with examples for different methods is given at the end of each chapter. It prepares you to understand the concepts and practise them with examples using R (A statistical programming language). This will help you get started and equip you to test out the given models on your own data. 🌟 **This repo gives the same code in python, so you are covered either way!**
+2. It also provides a 💡 lab section at the end of each chapter. It has R code snippets using various libraries that will come in handy to analyze data, build models, and test them. 🌟 **This repo gives the same code in python, so you are covered either way!** This will help you get started and equip you to test out the given models on your own data.
 
 
 Few important concepts it does not touch at all are-
@@ -81,6 +78,7 @@ Few important concepts it does not touch at all are-
 - Neural networks
 - Deep learning
 - Bayesian methods
+
 _____ 
 
 This is the 3rd part of my blog series, [Data science for analytical minds](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) on starting with statistics and machine learning, especially for people from non-technical backgrounds like economics, statistics, mathematics, physics etc.
