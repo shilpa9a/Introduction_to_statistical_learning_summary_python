@@ -2,7 +2,8 @@
 
 Whenever someone asks me “How to get started in data science?”, I usually recommend the book 📕 — [Introduction to Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf), to learn the basics of statistics and machine learning models. 
 
-And understandably, completing a technical book while practicing it with relevant data and code is a challenge for lot of us. So, I created a concise version of the book as this repo. Each chapter of the book has been translated into a [jupyter notebook](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/tree/master/notebook) with summary of the key concepts, data & python code to practice. So just clone the repo and get started! :woman_technologist: 
+And understandably, completing a technical book while practicing it with relevant data and code is a challenge for lot of us. So, I created a concise version of the book as this repo. 
+Each chapter of the book has been translated into a [jupyter notebook](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/tree/master/notebook) with summary of the key concepts, data & python code to practice. So just clone the repo and get started! :woman_technologist: 
 
 [Notebook: Chapter 2: Statistical Learning](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_2_Statistical_Learning.ipynb) explains-
 
