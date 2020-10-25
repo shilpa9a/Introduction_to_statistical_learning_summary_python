@@ -17,7 +17,7 @@ _____
 
 > "This book is intended for anyone who is interested in using modern statistical methods for modeling and prediction from data. This group includes scientists, engineers, data analysts, or quants, but also less technical individuals with degrees in non-quantitative fields such as the social sciences or business. We expect that the reader will have had at least one elementary course in statistics."
 
-I ✅ recommend this book because- 
+I recommend ✅  this book because- 
 
 1. It gives a modest introduction to statistics and mathematics behind the most used methods like:
 
