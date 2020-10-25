@@ -1,4 +1,5 @@
-# Statistical Machine Learning in Python- A summary of the book "Introduction to Statistical Learning"
+# Statistical Machine Learning in Python
+## A summary of the book "Introduction to Statistical Learning"
 
 Whenever someone asks me “How to get started in data science?”, I usually recommend the book 📕 — [Introduction to Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf), to learn the basics of statistics and machine learning models. 
 
