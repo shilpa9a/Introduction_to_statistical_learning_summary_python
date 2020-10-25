@@ -86,9 +86,9 @@ Few important concepts it does not touch at all are-
 
 _____ 
 
-This is the 3rd part of my blog series, [Data science for analytical minds](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) on starting with statistics and machine learning, especially for people from non-technical backgrounds like economics, statistics, mathematics, physics etc.
+**This is the independent part of my blog series, [Data science for analytical minds](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f), serving as a resource for people, especially from non-technical backgrounds like economics, statistics, mathematics, physics etc, to learn different components of data science through real life problem statements.**
 
-Checkout its 👉 [introductory blog](https://medium.com/@Shilpa9a/statistical-machine-learning-in-python-b095d4af36dd) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734). This is the 3rd part of the series focusing on statistics & ML basics.
+**Checkout its 👉 [introductory blog](https://medium.com/@Shilpa9a/statistical-machine-learning-in-python-b095d4af36dd) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734). This is the 3rd part of the series focusing on statistics & machine learning basics.**
 
 This is meant to give you quick head start with most used statistical concepts with data and code to play with. For a deeper understanding of any concept, I recommend referring back to the book.
 
