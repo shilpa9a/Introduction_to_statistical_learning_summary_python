@@ -2,12 +2,36 @@
 
 Whenever someone asks me “How to get started in data science?”, I usually recommend the book 📕 — [Introduction to Statistical Learning by Daniela Witten, Trevor Hastie, Gareth M. James, Robert Tibshirani](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf), to learn the basics of statistics and machine learning models. 
 
-So as part of my series, [Data science for analytical minds](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f, onboarding people to this book for learning statistical and machine learning seemed like the right step.
+And understandly, completing a technical book while practicing it with relevant data and code is a challenge for lot of us so I created a concise version of the book. I translated each chapter of the book into a [notebook](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/tree/master/notebook) with summary of the key concepts, data & python code to practice. So just clone the repo and get started! :woman_technologist: 
 
-To do this, I have summarised the key concepts explained in each chapter of the book and translated it to python with relevant data.
+[Notebook: Chapter 2: Statistical Learning](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_2_Statistical_Learning.ipynb) covers-
 
-Each chapter is a [notebook](https://github.com/shilpa9a/Introduction_to_statistical_learning_Summary_Python/tree/master/notebook) with concept summary, data & python code to practice. So just clone the repo and get started! :woman_technologist:
+- What Is Statistical Learning?
+- Assessing Model Accuracy
+- Introduction to Programming language, Python
 
+[Notebook: Chapter 3: Linear Regression](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_3_Linear_Regression.ipynb) covers-
+
+- Linear Regression (LR)- simple, multiple
+- Qualitative Predictors in LR
+- Non-linear Transformations of the Predictors
+- Potential Problems with least square linear regression
+
+[Notebook: Chapter 4: Classification](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_4_Classification.ipynb) covers-
+
+- Classification Overview
+- Logistic Regression
+- Linear Discriminant Analysis (LDA)
+- Quadratic Discriminant Analysis (QDA)
+- K-nearest neighbour
+
+[Notebook: Chapter 4: Classification](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/Chapter_4_Classification.ipynb) covers-
+
+- Classification Overview
+- Logistic Regression
+- Linear Discriminant Analysis (LDA)
+- Quadratic Discriminant Analysis (QDA)
+- K-nearest neighbour
 _____ 
 
 
@@ -44,7 +68,7 @@ Few important concepts it does not touch at all are-
 - Bayesian methods
 _____ 
 
-This is an independent part of my [blog series](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f)curated especially for people from non-technical backgrounds like economics, statistics, mathematics, physics etc. 
+This is the 3rd part of my blog series, [Data science for analytical minds](https://towardsdatascience.com/data-science-for-analytical-minds-introduction-8900b8d2477f) on starting with statistics and machine learning, especially for people from non-technical backgrounds like economics, statistics, mathematics, physics etc.
 
 Checkout its 👉 [introductory blog](https://medium.com/@Shilpa9a/statistical-machine-learning-in-python-b095d4af36dd) & [data quality & cleaning blog](https://towardsdatascience.com/dirty-data-quality-assessment-cleaning-measures-39efb90ad734). This is the 3rd part of the series focusing on statistics & ML basics.
 
