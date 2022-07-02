@@ -52,8 +52,17 @@ Expect to learn following concepts & their implementation in python:
 * Dimension Reduction Methods- PCR and PLS Regression
   * Principal Components Regression
   * Partial Least Squares
+  
+[Notebook: Chapter 7: Moving Beyond Linearity](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/chapter_7_Moving_Beyond_Linearity.ipynb) explains-
 
-*Note: Chapter-7,8,9 and 10 will be added soon.*
+* Polynomial Regression
+* Step/Piecewise Functions
+* Basis Functions
+* Regression Splines
+* Smoothing Splines
+* Generalized Additive Models
+
+*Note: Chapter-8,9 and 10 will be added soon.*
 
 _____ 
 
