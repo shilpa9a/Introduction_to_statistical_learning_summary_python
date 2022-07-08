@@ -62,7 +62,7 @@ Expect to learn following concepts & their implementation in python:
 * Smoothing Splines
 * Generalized Additive Models
 
-[Notebook: Chapter 8: # Tree-Based Methods](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/chapter_8_Tree-Based_Methods.ipynb) explains-
+[Notebook: Chapter 8: Tree-Based Methods](https://github.com/shilpa9a/Introduction_to_statistical_learning_summary_python/blob/master/notebook/chapter_8_Tree-Based_Methods.ipynb) explains-
 
 * Decision Trees
   * Regression Trees
